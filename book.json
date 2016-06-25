@@ -5,5 +5,8 @@
   "structure": {
     "readme": "Inicio.md",
     "summary": "Contenido.md"
-    }
+  },
+  "plugins" : [
+    "hide-published-with"
+  ]
 }
