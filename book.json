@@ -1,0 +1,9 @@
+{
+  "title" : "Administración y Uso de PC^2",
+  "description" : "Guía para la administración y uso de PC^2, el sistema para competencias de programación",
+  "language": "es",
+  "structure": {
+    "readme": "Introduccion.md",
+    "summary": "Contenido.md"
+    }
+}
