@@ -3,7 +3,7 @@
   "description" : "Guía para la administración y uso de PC^2, el sistema para competencias de programación",
   "language": "es",
   "structure": {
-    "readme": "Introduccion.md",
+    "readme": "Inicio.md",
     "summary": "Contenido.md"
     }
 }

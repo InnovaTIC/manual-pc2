@@ -1,15 +1,16 @@
 # Contenido
 
-[Introducción](0.Introduccion.md)
 
+[Inicio](Inicio.md)
 
-1. [Instalación](1.Instalacion.md)
-1. [Ejecución del Servidor](2.Servidor.md)
-2. [Ejecución de la Herramienta de Administración](3.Administrador.md)
-3. [Configuración de una Competencia](4.Competencia.md)
-4. [Ejecución del Cliente para cada Equipo](5.Equipo.md)
-5. [Ejecución del Cliente para cada Juez](6.Juez.md)
-6. [Ejecución del Cliente para el Tablero](7.Tablero.md)
-7. [Desinstalación](8.Desinstalacion.md) 
+1. [Sistema PC^2](1.SistemaPC2.md)
+1. [Instalación](2.Instalacion.md)
+1. [Ejecución del Servidor](3.Servidor.md)
+1. [Ejecución de la Herramienta de Administración](4.Administrador.md)
+1. [Configuración de una Competencia](5.Competencia.md)
+1. [Ejecución del Cliente para cada Equipo](6.Equipo.md)
+1. [Ejecución del Cliente para cada Juez](7.Juez.md)
+1. [Ejecución del Cliente para el Tablero](8.Tablero.md)
+1. [Desinstalación](9.Desinstalacion.md)
 
 
