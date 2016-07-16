@@ -2,12 +2,13 @@
   "title" : "Administración y Uso de PC^2",
   "description" : "Guía para la administración y uso de PC^2, el sistema para competencias de programación",
   "language": "es",
+  "root" : "./content",
+  "gitbook": "3.x.x",
   "structure": {
     "readme": "Inicio.md",
     "summary": "Contenido.md"
   },
   "plugins" : [
-    "hide-published-with",
     "expandable-chapters",
     "-sharing"
   ]

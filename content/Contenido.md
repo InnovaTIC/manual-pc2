@@ -1,7 +1,7 @@
 # Contenido
 
 
-[Inicio](Inicio.md)
+[Inicio](README.md)
 
 1. [Sistema PC^2](1.SistemaPC2.md)
 1. Administración
